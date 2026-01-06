@@ -34,7 +34,7 @@ The flag was clearly visible inside the image.
 #### 🚩 Flag: FLAG1:WELOVEBTLO
 #
 
-####Submit flag2
+#### Submit flag2
 Then, I found a DOCX file.
 Inside the document, there was a suspicious Base64 encoded string.
 ![.](CTF-Like/Employee-Of-The-Year/autopsy2.png)
