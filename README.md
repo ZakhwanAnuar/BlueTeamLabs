@@ -20,7 +20,7 @@ After that, I noticed there were multiple deleted files.
 I checked the deleted GIF file and opened it using Autopsy.
 
 From the GIF image, I got the flag.
-![.](CTF-Like/Employee-Of-The-Year/Question1.png)
+![.](CTF-Like/Employee-Of-The-Year/question1.png)
 #### 🚩 Flag: GoodJobDefender
 #
 
